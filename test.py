@@ -1,2 +1,3 @@
-print("Hello World")
-print("This is an addition")
+print("Hello my World")
+x=120
+
